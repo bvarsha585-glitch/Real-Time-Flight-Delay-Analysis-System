@@ -1,0 +1,28 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment files
+.env
+venv/
+env/
+
+# Data files (optional - if large)
+data/raw_data.csv
+
+# MySQL / DB files
+*.sqlitedb
+*.db
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Power BI temp files
+*.pbix.autosave
+
+# Logs
+*.log
